@@ -14,7 +14,7 @@
 
 ## 📌 설치 방법
 
-### 1️⃣ 필수 패키지 설치
+### 필수 패키지 설치
 ```sh
 pip install selenium beautifulsoup4 requests
 
