@@ -10,26 +10,20 @@
 - **다중 사용자 로그인 테스트 지원**
 - **ChromeDriver 기반 브라우저 자동 실행**
 
----
 
 ## 📌 설치 방법
 
 ### 필수 패키지 설치
-```sh
 pip install selenium beautifulsoup4 requests
 
 
 ### 실행 방법
-
 1. 필요한 패키지 설치
-```sh
 pip install selenium beautifulsoup4 requests
 
-
 2. 테스트 실행
-
-```sh
 python selenium_multi_login_test.py
 
+3. 결과 확인
  - CSV 파일: ~/Documents/login_test_results_YYYYMMDD.csv
  - 스크린샷 저장 (로그인 실패 시만 저장됨): ~/Documents/screenshots/
